@@ -1,7 +1,5 @@
 # WEB102 Prework - Crowdfunding Website
 
-Submitted by: Xinrui Hou
-
 Crowdfunding Website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 10 hours spent in total
